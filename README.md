@@ -2,7 +2,7 @@
 <h3 align="center">A Software Engineer and Deep Learning enthusiast</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=davidperjac&label=Profile%20views&color=0e75b6&style=flat" alt="letterphile" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=letterphile&label=Profile%20views&color=0e75b6&style=flat" alt="letterphile" /> </p>
 
 
 - 🌱 I’m currently learning **C++, Keras**
@@ -33,4 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=letterphile&show_icons=true&locale=en" alt="letterphile" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=letterphile&" alt="letterphile" /></p>
+
