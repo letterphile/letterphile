@@ -1,8 +1,9 @@
+<img align="center" alt="Coder GIF" src="https://indoanalytica.com/static/images/bannerr.gif" />
 <h1 align="center">Hi 👋, I'm Aswin Rajasekharan</h1>
 <h3 align="center">A Software Engineer and Deep Learning enthusiast</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=letterphile&label=Profile%20views&color=0e75b6&style=flat" alt="letterphile" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=davidperjac&label=Profile%20views&color=0e75b6&style=flat" alt="letterphile" /> </p>
 
 
 - 🌱 I’m currently learning **C++, Keras**
